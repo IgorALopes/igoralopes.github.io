@@ -4,7 +4,7 @@ var dataReload = document.querySelectorAll("[data-reload]")
 // Language translations
 var language = {
   eng: {
-    profession: "Fullstack / Front-end Web Developer | Graphic Designer",
+    profession: "Full stack / Frontend Web Developer | Graphic Designer",
     idiom: "Idiom",
     aboutMe: "About Me",
     myName: "Name:",
@@ -55,7 +55,7 @@ var language = {
     ResumePtBtn: "Resume pt-br",
   },
   pt_br: {
-    profession: "Desenvolvedor Web Fullstack / Front end | Designer Gráfico",
+    profession: "Desenvolvedor Web Full stack / Frontend | Designer Gráfico",
     idiom: "Idioma",
     aboutMe: "Sobre Mim",
     myName: "Nome:",
